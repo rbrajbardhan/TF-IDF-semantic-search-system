@@ -4,10 +4,11 @@ This project implements a TF-IDF (Term Frequency-Inverse Document Frequency) bas
 
 ## Features
 
+- Preprocess and merge datasets
 - Build and save TF-IDF models
 - Evaluate retrieval performance
 - Generate charts for analysis
-- Preprocess and merge datasets
+
 
 ## Installation
 
