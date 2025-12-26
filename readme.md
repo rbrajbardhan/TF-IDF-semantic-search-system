@@ -14,7 +14,7 @@ This project implements a TF-IDF (Term Frequency-Inverse Document Frequency) bas
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/rbrajbardhan/TF-IDF-semantic-search-system
    cd TF-IDF_Semantic_Search
    ```
 
